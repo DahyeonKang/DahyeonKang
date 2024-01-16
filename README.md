@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... JINI
-- 🌱 I’m currently learning ... Data and AI
-
+- 🤔 I have interest on Data analysis and AI  
+- 🌱 Skill : Python, SQL, R, Spotfire, QGIS
 <!--
 **DahyeonKang/DahyeonKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
